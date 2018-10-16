@@ -51,5 +51,5 @@ function getResult($num)
     return "Проблема актуальна для знаков +,-,*,/ . \n";
 }
 
-echo getResult(10598);
+echo getResult(10598); // Указать можно любое число
 
